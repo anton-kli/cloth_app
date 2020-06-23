@@ -36,9 +36,8 @@ A Flutter project gallery-like for those who want to save garb in one place.
 - [ ] Profile page
 
 ## ScreenShots
+|                                       |                                       |
 | ------------------------------------- | ------------------------------------- |
 | <img src="screens/1.png" width="250"> | <img src="screens/2.png" width="250"> |
-| ------------------------------------- | ------------------------------------- |
 | <img src="screens/3.png" width="250"> | <img src="screens/4.png" width="250"> |
-| ------------------------------------- |
 | <img src="screens/5.png" width="250"> |
